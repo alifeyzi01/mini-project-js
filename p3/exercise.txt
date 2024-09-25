@@ -1,0 +1,28 @@
+یک فروشگاه آنلاین پیاده سازی کنید
+
+به این شکل که محصولات فروشگاه خود را در دیتابیسی ذخیره کرده (آرایه) و آرایه ای برای سبد خرید کاربر داشته باشید
+و از کاربر اسم محصولی را که قصد اضافه کردن به سبد خرید دارد ، دریافت کنید
+
+اگر محصول درخواستی کاربر در انبار فروشگاه شما موجود بود، آن را به سبد خرید کاربر اضافه کنید
+و سپس مبلغ کل سبد خرید را محاسبه کرده و به کاربر نمایش دهید
+و در غیر این صورت به کاربر پیغام اتمام موجودی نمایش دهید
+
+:نکات قابل توجه
+بعد از اضافه محصول به سبد خرید کاربر، سبد را در کنسول نمایش دهید
+به طور دیفالت 3 محصول با قیمت های مختلف در سبد خرید کاربر موجود باشد
+
+
+
+
+Implement an Online Store
+
+Design an online store where you store your products in a database (array) and have another array for the user's shopping cart.
+
+You should ask the user for the name of the product they want to add to their cart.
+
+If the requested product is available in your store's inventory, add it to the user's cart, then calculate and display the total price of the cart. If the product is out of stock, display an "out of stock" message to the user.
+
+Important Notes:
+
+After adding the product to the user's cart, display the updated cart in the console.
+By default, there should be 3 products with different prices in the user's shopping cart.

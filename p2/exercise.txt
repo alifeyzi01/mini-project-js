@@ -1,0 +1,5 @@
+دیتابیسی برای ذخیره اطلاعات کاربران داشته باشید (آرایه ای از آبجکت ها)
+و سپس به کمک متد فورایچ، اطلاعات هر یوزر را به صورت جداگانه در کنسول نمایش دهید
+
+
+Have a database to store user information (an array of objects), and then use the forEach method to display each user's information separately in the console.
