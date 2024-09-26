@@ -1,0 +1,13 @@
+فرض کنید پلتفرمی مثل تلگرام ساخته اید و چند نفر در آن یک گروه ایجاد کردند
+و قصد ایجاد تماس کنفرانسی دارند
+
+اما شرط لازم برای ایجاد تماس کنفرانسی بالای 18 سال بودن اعضای گروه است
+اگر تمامی اعضا بالای 18 سال نبودند، اجازه ایجاد تماس کنفرانسی را ندهید
+
+
+
+Imagine you have created a platform similar to Telegram, and several people have created a group within it.
+
+They want to initiate a conference call, but the requirement for creating the conference call is that all group members must be over 18 years old.
+
+If not all members are over 18, do not allow the conference call to be initiated.
