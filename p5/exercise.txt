@@ -1,0 +1,22 @@
+پروژه فروشگاه را در نظر بگیرید
+
+محصولات فروشگاه را داخل آرایه ای ذخیره کرده و آرایه ای برای سبد خرید در نظر بگیرید
+و داخل سبد خرید 3 محصول بطور دیفالت قرار دهید
+
+منویی را به کاربر نمایش دهید که شامل 2 گزینه است
+گزینه ای برای حذف محصول از سبد خرید
+و گزینه ای برای اضافه کردن محصول به سبد خرید
+
+عملیات لازم برای هر گزینه را پیاده سازی کنید
+
+
+
+Consider the online store project.
+
+Store the products in an array and create another array for the shopping cart, with 3 default products already placed in the cart.
+
+Display a menu to the user that includes two options:
+
+ 1. An option to remove a product from the cart.
+ 2. An option to add a product to the cart.
+Implement the necessary operations for each option.
