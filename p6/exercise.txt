@@ -1,0 +1,20 @@
+یک پروژه فروشگاه آنلاین پیاده سازی کنید
+
+به این صورت که یک آرایه به عنوان سبد خرید کاربر در نظر بگیرید که 6 محصول به طور دیفالت دارد
+
+سیاست کاری فروشگاه به این شکل است که برای محصولاتی که بالای 100 هزار تومان باشند، از مشتری هزینه پست دریافت نمی شود
+
+اما محصولاتی که زیر 100 هزار تومان قیمت داشته باشند، برای هر کدام 1000 تومان هزینه ارسال (هزینه پست) دریافت میشه
+
+لطفا قیمت کل سبد خرید را همراه با هزینه پست محاسبه کرده و به کاربر نمایش دهید
+
+
+Implement an Online Store Project
+
+Design an online store where you have an array representing the user's shopping cart with 6 default products.
+
+The store's policy is as follows:
+
+    .For products priced above 100,000 Tomans, no shipping cost is charged.
+    .For products priced below 100,000 Tomans, a shipping fee of 1,000 Tomans is charged for each product.
+Please calculate the total cost of the cart, including the shipping fee, and display it to the user.    
