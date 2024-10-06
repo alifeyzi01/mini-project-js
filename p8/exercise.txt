@@ -1,0 +1,32 @@
+یک پروژه تودولیست پیاده سازی کنید
+
+به این صورت که یک آرایه ای برای ذخیره تودوها داشته باشید و به طور دیفالت 3 تودو داخل آن ذخیره کنید
+هر تودو مشخصاتی مثل آیدی، اسم تودو و وضعیت را دارد
+
+:منویی به 3 گزینه به صورت زیر به کاربر نمایش دهید
+1. اضافه کردن تودو
+2. حذف تودو
+3. انجام تودو (تغییر وضعیت)
+
+در قسمت اول اسم تودویی را از کاربر دریافت کرده و به لیست تودوها اضافه کنید
+در قسمت دوم اسم تودویی را از کاربر دریافت کرده و آن را از لیست تودوها حذف کنید
+در قسمت سوم اسم تودو را دریافت کرده و همان تودو را در وضعیت انجام شده قرار دهید
+
+در پایان هر کدام از عملیات‌ها، لیست تودوها را در کنسول نمایش دهید
+
+
+
+
+Implement a To-Do List Project
+
+Create an array to store to-dos, with 3 default to-dos already stored in it. Each to-do should have properties like ID, name, and status.
+
+Display a menu to the user with 3 options as follows:
+
+    1.Add a To-Do
+    2.Remove a To-Do
+    3.Complete a To-Do (change status)
+    .In the first part, receive the name of a to-do from the user and add it to the list of to-dos.
+    .In the second part, receive the name of a to-do from the user and remove it from the list of to-dos.
+    .In the third part, receive the name of a to-do and mark it as completed.
+At the end of each operation, display the updated list of to-dos in the console.
