@@ -1,0 +1,16 @@
+یک آزمون آنلاین پیاده سازی کنید
+
+به این شکل که سوالاتی را به کاربر نمایش داده و پاسخ آن ها را دریافت کرده
+و به ازای هر پاسخ درست، یک امتیاز به کاربر بدهید
+
+در پایان آزمون، امتیاز کاربر را نمایش دهید
+
+
+
+
+Implement an online test
+
+In this way, it shows questions to the user and receives their answers
+And for each correct answer, give the user one point
+
+At the end of the test, display the user's score
