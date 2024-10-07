@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>12</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 align="center">12</h1>
+
+    <table >
+        <tr>
+            <td colspan="4"><input type="text" disabled id="result"></td>
+        </tr>
+        <tr>
+            <td onclick="bottom('+')">+</td>
+            <td onclick="bottom('-')">-</td>
+            <td onclick="bottom('*')">*</td>
+            <td onclick="bottom('/')">/</td>
+        </tr>
+        <tr>
+            <td onclick="bottom('7')">7</td>
+            <td onclick="bottom('8')">8</td>
+            <td onclick="bottom('9')">9</td>
+            <td rowspan="4" id="equal"onclick="equal()">=</td>
+        </tr>
+        <tr>
+            <td onclick="bottom('4')">4</td>
+            <td onclick="bottom('5')">5</td>
+            <td onclick="bottom('6')">6</td>
+        </tr>
+        <tr>
+            <td onclick="bottom('1')">1</td>
+            <td onclick="bottom('2')">2</td>
+            <td onclick="bottom('3')">3</td>
+        </tr>
+        <tr>
+            <td onclick="bottom('0')">0</td>
+            <td onclick="bottom('00')">00</td>
+            <td onclick="clean()">c</td>
+        </tr>
+    </table>
+
+
+
+    <script src="js/script.js"></script>
+</body>
+</html>

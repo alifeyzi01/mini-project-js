@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+}
+table{
+    width: 600px;
+    height: 441px;
+    margin: 100px auto;
+    background-color: #fafafa;
+    outline: 0px none;
+    border: 1px solid #1e1e1e;
+    font-size: 45px;
+
+
+}
+td{
+    cursor: pointer;
+}
+td:hover{
+    background-color: #d6d6d6;
+}
+tr,td{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    border: 1px solid #1e1e1e;
+
+}
+
+#result{
+    color: #fafafa;
+    width: 93%;
+    height: 93%;
+    background-color: #1e1e1e;
+    font-size: 32px;
+
+}
+input{
+    padding: 0 19px;
+}
+
+#equal{
+    background-color: #ff8400;
+    
+}
+
+#equal:hover{
+    background-color: #d36d00;
+    
+}
+
+
