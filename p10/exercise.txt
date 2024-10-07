@@ -1,0 +1,15 @@
+یک سامانه فروش بلیط آنلاین پیاده سازی کنید
+
+به این صورت که مبدا سفر (استان) را از کاربر دریافت کرده و سپس شهر های استان وارد شده را در کنسول نمایش دهید
+
+ساختار پروژه و ذخیره سازی اطلاعات بر عهده شما
+
+
+
+
+
+Implement an online ticketing system
+
+In this way, it receives the travel origin (province) from the user and then enters the cities of the province to show.
+
+Project structure and information storage on your management
