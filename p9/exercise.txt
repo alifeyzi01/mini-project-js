@@ -1,0 +1,21 @@
+یک پروژه تسک منیجمنت پیاده سازی کنید
+
+در این سامانه مدیر می تواند به کارمندان خود تسک های مختلفی بدهد
+به عنوان مثال می تواند به آقای محمد وظیفه خاصی را اعمال کند
+
+یک ساختار داشته باشید که داخل آن 4 کارمند موجود بوده و هر کارمند وظایفی را بر عهده داشته باشند
+سپس از کاربر (مدیر) اسم یک تسک را دریافت کرده و همچنین اسم کارمندی را که قصد اضافه کردن تسک به آن دارد
+دریافت کنید
+و سپس تسک مورد نظر مدیر را به کارمند مورد نظرش اضافه کرده و لیست را در کنسول نمایش دهید
+
+
+
+Implement a task management project
+
+In this system, the manager can give tasks to his employees
+For example, the duty can be applied to Mr. Muhammad
+
+Have a structure where there are 4 employees and each employee has duties
+Then, the user (administrator) receives the name of a task and also the name of the employee who intends to add the task to it.
+receive
+And then add the desired task of the manager to the desired employee and display the list in the console
